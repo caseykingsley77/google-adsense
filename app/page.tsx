@@ -98,7 +98,7 @@ export default function GoogleAdSenseDashboard() {
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 sm:gap-6">
                   <div>
                     <div className="text-xs sm:text-sm text-gray-600 mb-1">Page views</div>
-                    <div className="text-lg sm:text-2xl font-bold text-gray-800">2,59 rb</div>
+                    <div className="text-lg sm:text-2xl font-bold text-gray-800">US$2.59</div>
                     <div className="text-xs sm:text-sm text-red-600 flex items-center gap-1">
                       <TrendingDown className="h-3 w-3" />
                       <span>US$3.15 (-55%)</span>
@@ -225,7 +225,7 @@ export default function GoogleAdSenseDashboard() {
                         <span className="bg-blue-400 text-white px-1.5 sm:px-2 py-0.5 sm:py-1 rounded text-xs">
                           US$3,20
                         </span>
-                        <span className="text-gray-600 w-8 sm:w-auto text-right">1,48 rb</span>
+                        <span className="text-gray-600 w-8 sm:w-auto text-right">US$1.48</span>
                         <span className="text-gray-600 w-6 sm:w-auto text-right">89</span>
                       </div>
                     </div>
