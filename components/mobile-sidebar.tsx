@@ -122,7 +122,7 @@ export default function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
                 priority
               />
             </div>
-            <span className="text-lg font-medium text-gray-700">Google AdSense</span>
+            <span className="text-lg font-medium text-gray-700">Home</span>
           </div>
           <Button
             variant="ghost"
