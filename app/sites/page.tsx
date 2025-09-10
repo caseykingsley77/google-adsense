@@ -120,7 +120,7 @@ export default function SitesPage() {
                     <tr className="border-b border-gray-100 hover:bg-gray-50">
                       <td className="py-4 px-6">
                         <Button variant="link" className="text-blue-600 p-0 h-auto">
-                          jelmi.xyz
+                          casey.com
                         </Button>
                       </td>
                       <td className="py-4 px-6">

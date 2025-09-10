@@ -200,7 +200,7 @@ export default function PaymentInfoPage() {
           {/* Payment Account Section */}
           <div className="mb-6">
             <div className="text-xs text-gray-500 uppercase tracking-wide mb-2">PAYMENT ACCOUNT</div>
-            <div className="text-sm text-gray-700">AdSense (Colombia)</div>
+            <div className="text-sm text-gray-700">AdSense (United Kingdom)</div>
           </div>
 
           {/* Payment Section */}

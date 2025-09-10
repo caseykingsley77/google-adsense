@@ -33,7 +33,7 @@ export default function Header({ title = "Home page" }: HeaderProps) {
             <div className="flex items-center gap-3">
               <div className="relative w-8 h-8 flex-shrink-0">
                 <Image
-                  src="/google-adsense-logo.png"
+                  src="/antiban.png"
                   alt="Google AdSense"
                   width={32}
                   height={32}

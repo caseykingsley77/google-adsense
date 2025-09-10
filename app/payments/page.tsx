@@ -19,8 +19,8 @@ export default function PaymentsPage() {
 
           {/* Payment Account Section */}
           <div className="mb-6">
-            <div className="text-xs text-gray-500 uppercase tracking-wide mb-2">PAYMENTS ACCOUNT</div>
-            <div className="text-sm text-blue-600">AdSense (Colombia)</div>
+            <div className="text-xs text-gray-500 uppercase tracking-wide mb-2">PAYMENT HISTORY</div>
+            <div className="text-sm text-blue-600">AdSense (United States)</div>
           </div>
 
           {/* Payments Section */}
@@ -32,14 +32,10 @@ export default function PaymentsPage() {
               <CardContent className="p-6">
                 <div className="flex items-start justify-between mb-6">
                   <div className="flex-1">
-                    <h2 className="text-lg font-medium text-gray-800 mb-2">Your earnings</h2>
-                    <p className="text-sm text-gray-600">
-                      Paid monthly if the total is at least US$100.00 (your payout threshold)
-                    </p>
+                    <h2 className="text-lg font-medium text-gray-800 mb-2">Your Payment</h2>
+                    
                   </div>
-                  <div className="text-right">
-                    <div className="text-3xl font-bold text-gray-800">US$247.01</div>
-                  </div>
+                  
                 </div>
 
                 <div className="mb-4">
@@ -48,10 +44,7 @@ export default function PaymentsPage() {
                   </div>
                 </div>
 
-                <div className="flex justify-between text-sm text-gray-600">
-                  <span>You've reached 100% of your payment threshold</span>
-                  <span>Payment threshold: US$100.00</span>
-                </div>
+                
               </CardContent>
             </Card>
 
@@ -88,7 +81,7 @@ export default function PaymentsPage() {
 
               {/* How You Get Paid Section */}
               <div>
-                <h3 className="text-lg font-medium text-gray-800 mb-4">How you get paid</h3>
+                <h3 className="text-lg font-medium text-gray-800 mb-4">Payment must be confirmed before withdrawal</h3>
 
                 <div className="flex items-start gap-4 mb-4">
                   <div className="w-16 h-12 bg-gray-200 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -96,7 +89,7 @@ export default function PaymentsPage() {
                   </div>
                   <div className="flex-1">
                     <div className="text-sm font-medium text-gray-800 mb-1">Bank transfer to bank account ••••672</div>
-                    <div className="text-sm text-gray-600">Yuly Andrea Rojas Santoya</div>
+                    <div className="text-sm text-gray-600">Casey Kingsley Ezennia</div>
                   </div>
                 </div>
 
@@ -112,7 +105,7 @@ export default function PaymentsPage() {
 
               <div className="space-y-3 mb-4">
                 <div className="text-sm text-gray-600">AdSense pub-9480588368031855</div>
-                <div className="text-sm font-medium text-gray-800">YULY ANDREA ROJAS SANTOYA</div>
+                <div className="text-sm font-medium text-gray-800">Casey Kingsley Ezennia</div>
                 <Button variant="link" className="text-blue-600 p-0 h-auto text-sm">
                   1 user
                 </Button>

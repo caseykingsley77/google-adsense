@@ -30,11 +30,11 @@ export default function GoogleAdSenseDashboard() {
                 <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
                   <div>
                     <div className="text-xs sm:text-sm opacity-90 mb-1">Today so far</div>
-                    <div className="text-lg sm:text-2xl font-bold">US$0.01</div>
+                    <div className="text-lg sm:text-2xl font-bold">US$25,000.01</div>
                   </div>
                   <div>
                     <div className="text-xs sm:text-sm opacity-90 mb-1">Yesterday</div>
-                    <div className="text-lg sm:text-2xl font-bold">US$0.29</div>
+                    <div className="text-lg sm:text-2xl font-bold">US$10,000.29</div>
                     <div className="text-xs opacity-75 flex items-center gap-1">
                       <TrendingDown className="h-3 w-3" />
                       <span>US$4,08 (-93%)</span>
@@ -74,7 +74,7 @@ export default function GoogleAdSenseDashboard() {
               <CardContent className="pt-0">
                 <div className="text-2xl sm:text-3xl font-bold mb-2">$247.01</div>
                 <div className="text-xs sm:text-sm opacity-90">Last payment</div>
-                <div className="text-xs sm:text-sm opacity-75">US$0.00</div>
+                <div className="text-xs sm:text-sm opacity-75">US$28,000.00</div>
               </CardContent>
             </Card>
           </div>
